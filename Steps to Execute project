@@ -1,3 +1,5 @@
+# UITestAutomationDemo
+UITestAutomationDemo
 pre-requsite ;
 1. OS : windows
 2. eclipse version used: IDE (Eclipse IDE for Enterprise Java Developers.- Version: 2018-12 (4.10.0) Build id: 20181214-0600
@@ -5,6 +7,15 @@ pre-requsite ;
 4. maven 3 or later
 5. Java SDK 8
 6. other generic softwares.
+7. The following items should be installed in your system:
+Maven 3.
+git command line.
+Execute the below mention command to run the application on local environment:
+1.	git clone https://github.com/spring-projects/spring-petclinic.git
+2.	cd spring-petclinic
+3.	./mvnw spring-boot:run
+After this you can access the application on: http://localhost:8080/
+
 
 Bring a GitHub hosted Maven project into Eclipse, follow these steps:
 1. Copy the GitHub URL of the repository to the clipboard [Refer the email body]
